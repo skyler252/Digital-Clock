@@ -1,7 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap");
 
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
-
 * {
 	margin: 0;
 	padding: 0;
@@ -10,7 +8,7 @@
 
 body,
 button {
-	font-family: "Roboto", sans-serif;
+	font-family: "Share Tech Mono", sans-serif;
 	background-color: #000;
 }
 
@@ -23,6 +21,6 @@ button {
 }
 
 #clock {
-	font-size: 70px;
+	font-size: 100px;
 	color: #90bb4f;
 }
