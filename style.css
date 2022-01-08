@@ -6,8 +6,7 @@
 	box-sizing: border-box;
 }
 
-body,
-button {
+body {
 	font-family: "Share Tech Mono", sans-serif;
 	background-color: #000;
 }
